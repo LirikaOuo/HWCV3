@@ -1,5 +1,5 @@
 Hello world!
-Начинаем
-xgcbhgfgb
 
-sdfg
+Начинаем
+
+*курсив*
