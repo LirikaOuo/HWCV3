@@ -189,6 +189,8 @@ git init
 
 *Список команд взят из [Proglib](https://proglib.io/p/git-cheatsheet)*
 
+
 [2jpg](2.JPG)
+
 
 # ***СПАСИБО за ВНИМАНИЕ!***
