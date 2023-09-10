@@ -190,4 +190,8 @@ git init
 
 *Список команд взят из [Proglib](https://proglib.io/p/git-cheatsheet)*
 
+## **Конфликт.**
+
+
+
 # ***СПАСИБО за ВНИМАНИЕ!***
